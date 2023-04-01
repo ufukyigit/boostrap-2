@@ -1,0 +1,73 @@
+
+.story-box img{
+    border-radius: 80%;
+    width: 70px;
+    margin: 15px;
+    margin-left: 1rem;
+    position: relative;
+    margin-left: 25px;
+    border-style: solid;
+    border-color: brown;
+}
+
+.nonephoto{
+    margin-left: 1rem;
+    border-radius: 70%;
+    border-style: solid;
+    border-color: brown;
+}
+.isimlik{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    text-transform: uppercase;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+    top: 5px;
+}
+.img2{
+
+    border-radius: 50%;
+    width: 40px;
+    margin-left: 15px;
+
+}
+
+.text2{
+    text-shadow: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+body{
+    background-color: whitesmoke;
+}
+
+
+.sidebar {
+	position: fixed;
+	top: 140px;
+	right:  25rem;
+	overflow: auto;
+	
+}
+
+.pic1{
+    width: 55px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: brown;
+    margin-right: 7px ;
+
+}
+.text3{
+    position: fixed;
+    right: 19rem;
+
+    
+}
+.text4{
+    position: relative;
+    left: -50px;
+    
+    
+}
